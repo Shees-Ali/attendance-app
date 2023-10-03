@@ -1,0 +1,7 @@
+{
+  "name": "ned-attendance-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
